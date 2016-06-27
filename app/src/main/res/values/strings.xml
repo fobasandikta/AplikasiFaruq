@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">"Aplikasi gajelas "</string>
+    <string name="action_settings">Settings</string>
+    <string name="item_title">Anggota DPR UMAR Arsal</string>
+    <string name="item_desc">Pemerintah sudah siap layani penumpang mudik</string>
+    <string name="detail_desc">Kendari (ANTARA News) - Anggota Komisi V DPR RI asal Sulawesi Tenggara,
+        Umar Arsal mengatakan, pemerintah menyatakan kesiapanya melayani penumpang mudik lebaran di berbagai daerah yang sering bermasalah dengan penyediaan sarana transportasi berupa pesawat udara, kapal laut, bus dan kereta api.Umar Arsal yang juga Politisi Partai Demokrat Sultra, di Kendari, Kamis itu mengungkapkan, sesuai hasil kunjungan langsung di berbagai daerah padat penumpang, seperti Makassar, Surabaya, Medan dan Jakarta, pemerintah melakukan antisipasi dini, mengatasi kepadatan penumpang mudik maupun arus balik.
+        "Kami berharap kesiapan sarana transportasi tersebut dapat memberi rasa aman kepada masyarakat yang mudik lebaran, sekaligus menghindari terjadinya insiden atau zero insiden, seperti yang terjadi tahun-tahun sebelumnya," ujarnya.
+        Kehadiran anggota DPR RI yang sudah dua periode itu di Kendari dalam rangka melakukan rangkaian silaturrahmi di bulan puasa ke sejumlah daerah dan tidak terkecuali mengunjungi sejumlah panti asuhan dan pondok Pesantren di Kendari.
+        Lebih lanjut Umar Arsal menambahkan, di wilayah Sulawesi Tenggara (Sultra), Rumah Aspirasi Partai Demokrat, bekerja sama Polda Sultra, juga membangun posko mudik lebaran di beberapa titik.
+        Posko mudik tersebut bertujuan memberi layanan kepada masyarakat untuk kelancaran perjalanan mudik, baik di wilayah darat maupun laut.
+    </string>
+    <string name="detail_location">"Jakarta"</string>
+</resources>
